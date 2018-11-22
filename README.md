@@ -1,5 +1,12 @@
 ## SEO笔记
 [SEO实战密码，笔记](/seo-cipher-challenge.md)
+
+## 参考网站
+http://www.helebocai.com/
+
+PHPCMS，这个好像支持站群 http://www.phpcms.cn/
+
+
 ## 购买相关
 * QQ28751976 国内/香港/韩国/美国服务器批发
 * 有个叫楚狂人的软件做了近十年，有狂人系列营销软件
