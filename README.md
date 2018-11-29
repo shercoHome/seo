@@ -182,6 +182,11 @@ $this->TotalResult = max($this->PageSize * $GLOBALS["cfg_listmaxpage"], $this->T
 * 365建站网
 * http://www.gchao.com/group.php?gid=104
 
+处理器|内存|硬盘|带宽|IP数量|价格/月|
+-----|-----|----|---|-----|-------|
+(香港站群4个不同c段)|8GB|1TB SATA/480GSSD|5M独享不限制流量|4*61(4个不同C）|1600.00|
+(香港站群4个不同C)E5-2450l*2|32GB|2TB SATA|10M独享不限制流量|*61(4个不同C）|1999.00	|
+
 * 760名查询，输入关键词、域名，查询这个域名的这个域名的关键词的排名 https://www.aizhan.com
 
 * 查看域名黑历史：http://web.archive.org/web/20130601000000*/域名
