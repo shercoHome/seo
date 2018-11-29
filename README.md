@@ -1,3 +1,19 @@
+##
+每一个网站：
+1、域名绑定
+2、上传模版
+3、建立网站
+4、设置网站名称、描述、提权的句子
+5、设置栏目
+6、取消验证码
+------
+批量添加网站及接口配置到狂人软件
+挂机采集
+-----
+超级外链群发器
+挂机发外链
+
+
 ## SEO笔记
 [SEO实战密码，笔记](/seo-cipher-challenge.md)
 
@@ -47,12 +63,11 @@
 http://tool.chinaz.com/tools/html_js.aspx
 
 http://www.pigpignet.com/
+
 http://www.yqfcb.com
 
-
-
-
 http://www.helebocai.com/
+
 http://www.jhdymy.com/
 
 PHPCMS，这个好像支持站群 http://www.phpcms.cn/
@@ -166,9 +181,16 @@ $this->TotalResult = max($this->PageSize * $GLOBALS["cfg_listmaxpage"], $this->T
 * 有个叫楚狂人的软件做了近十年，有狂人系列营销软件
 * 365建站网
 * http://www.gchao.com/group.php?gid=104
+
+* 760名查询，输入关键词、域名，查询这个域名的这个域名的关键词的排名 https://www.aizhan.com
+
 * 查看域名黑历史：http://web.archive.org/web/20130601000000*/域名
+* 找一批老域名：黄页88等企业站：www.huangye88.com
 * 查看域名是否域名是不是可买:http://www.link114.cn/
 * 橙子SEO 查反链（历史锚文本） http://www.juziseo.com/ 
+* 域名安全检测：腾讯电脑管家 https://guanjia.qq.com/online_server/webindex.html
+* 曾经被降权：https://www.aizhan.com 网站历史的收录等
+
 
 
 ## 忠告
