@@ -7,13 +7,37 @@
 5. 设置栏目
 6. 取消验证码
 
-批量添加网站及接口配置到狂人软件
+批量添加网站及接口配置到狂人软件  
 挂机采集
 
-超级外链群发器
+超级外链群发器  
 挂机发外链
+----------------------
+## 参考网站
+* 参考站样式1 http://www.jhdymy.com/
+* 参考站样式2 http://www.helebocai.com/
+* 参考站样式3 http://www.yqfcb.com
+* 参考站样式4 http://www.pigpignet.com
 
+* 谷歌关键字规划师 https://ads.google.com/aw/keywordplanner/home?ocid=294945565&__c=4336109685&sourceid=awo&__u=7000670026&authuser=0
+* 关键字 https://keywordtool.io/
+* 关键词挖掘 https://ci.aizhan.com/
+* 关键词优化难度分析 http://tool.chinaz.com/kwevaluate
+* GoDaddy https://sg.godaddy.com/zh/site-map?isc=gennbacn16
+* Web博物馆 http://web.archive.org/web/20180401000000*/baidu.com
+* 链接检测 http://www.link114.cn/
+* 爱站网SEO综合查询 https://www.aizhan.com/cha/baidu.com/
+* 桔子SEO 外链查询 https://seo.juziseo.com/domain_rank/result/id-KzcyU1lPaVNWeVlZeW10VnlydjI2ZE85TjhhOTdZYzVFUQ==.html
 
+* 国超站群服务器 http://www.gchao.com/group.php?gid=104
+* 狂人软件 http://www.kuangren.net.cn/jiaocheng/
+* 织梦 http://dedecms.com/
+* PHPCMS http://www.phpcms.cn/
+* 站长帮手（反链） http://i.links.cn/?weburl=www.baidu.com/
+* 黄页88 http://www.huangye88.com
+* 中国供应商 https://www.china.cn/search/9pptzk.shtml?p=30
+* 代码混淆 http://tool.chinaz.com/tools/html_js.aspx
+* 站长工具 http://tool.chinaz.com/
 ## SEO笔记
 [SEO实战密码，笔记](/seo-cipher-challenge.md)
 
@@ -53,26 +77,8 @@
 * 2019年01月：建站80个，日常维护并优化排名
 * 2019年02月：1月30日开始休年假，日常维护（转交或自动化，再考虑）
 
-
 -----------
 
-
-
-## 参考网站
-代码混淆
-http://tool.chinaz.com/tools/html_js.aspx
-
-http://www.pigpignet.com/
-
-http://www.yqfcb.com
-
-http://www.helebocai.com/
-
-http://www.jhdymy.com/
-
-PHPCMS，这个好像支持站群 http://www.phpcms.cn/
-
-织梦：http://dedecms.com/  可以用默认的绿色模版  
 每个vps上放50到100个dedecms，全站静态化，默认模板去掉所有动态的东西，好比登录，留言评论，点赞，tag，点击数等等  
 网站目录只给生成静态的目录可写，其他目录全部设置为只读，  
 每周备份一次数据库，整体压缩，丢到百度网盘，备份完毕后  
