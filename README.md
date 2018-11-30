@@ -1,23 +1,25 @@
 ## 操作步骤
-每一个网站：
-1. 域名绑定
-2. 上传模版
-3. 建立网站
-4. 设置网站名称、描述、提权的句子，banner.jpg，list.jpg，logo.png
-5. 设置栏目
-6. 取消验证码
+1. 每一个网站：
+    1. 域名绑定
+    2. 上传模版
+    3. 建立网站
+    4. 设置网站名称、描述、提权的句子，banner.jpg，list.jpg，logo.png
+    5. 设置栏目
+    6. 取消验证码
 
-批量添加网站及接口配置到狂人软件  
-挂机采集
-
-超级外链群发器  
-挂机发外链
+2. 批量更新
+    1. 批量添加网站及接口配置到狂人软件  
+    2. 挂机采集
+3. 批量外链（提交查询的方式）
+    1. 超级外链群发器  
+    2. 挂机发外链
 ----------------------
 ## 参考网站
 * 参考站样式1 http://www.jhdymy.com/
 * 参考站样式2 http://www.helebocai.com/
 * 参考站样式3 http://www.yqfcb.com
 * 参考站样式4 http://www.pigpignet.com
+* 参考站样式5 view-source:http://www.juyixian.com/
 
 * 谷歌关键字规划师 https://ads.google.com/aw/keywordplanner/home?ocid=294945565&__c=4336109685&sourceid=awo&__u=7000670026&authuser=0
 * 关键字 https://keywordtool.io/
