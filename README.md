@@ -17,7 +17,8 @@
 1. 上传并解压dede原文件
 2.  网页安装（设置数据库连接地址、账号，设置后台账号、密码）
     `这里注意 要设置 * 新的数据库名 * `
-3. 用dede模板包覆盖原始档
+3. 保留data文件，其它原始文件删除
+3. 上传并解压dede模板包
 4. 后台设置网站名称、描述、备注信息变量用于提权的句子，banner.jpg，list.jpg，logo.png
 ### 三、狂人软件批量栏目设置
 1. 批量添加网站及接口配置到狂人软件  
@@ -27,6 +28,18 @@
 ### 五、批量外链（提交查询的方式）
 1. 超级外链群发器  
 2. 挂机发外链
+### Google Analytics
+```html
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122667432-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122667432-4');
+</script>
+```
 ----------------------
 ## 参考网站
 * 参考站样式1 http://www.jhdymy.com/
