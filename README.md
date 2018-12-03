@@ -29,6 +29,7 @@
 1. 超级外链群发器  
 2. 挂机发外链
 ### Google Analytics
+https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p185740740
 ```html
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122667432-4"></script>
