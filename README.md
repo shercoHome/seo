@@ -22,8 +22,9 @@
 4. 后台设置网站名称、描述、备注信息变量用于提权的句子，banner.jpg，list.jpg，logo.png
 ### 三、狂人软件批量栏目设置
 1. 批量添加网站及接口配置到狂人软件  
-2. 批量设置栏目
-3. 提取栏目ID
+2. 批量给软件增加栏目
+3. 批量给空间增加栏目
+4. 提取栏目ID
 ### 四、狂人软件网站采集归类
 ### 五、批量外链（提交查询的方式）
 1. 超级外链群发器  
@@ -48,6 +49,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 参考站样式3 http://www.yqfcb.com
 * 参考站样式4 http://www.pigpignet.com
 * 参考站样式5 view-source:http://www.juyixian.com/
+* 着陆页参考 http://www.dtzxkc.com/
 
 * 谷歌关键字规划师 https://ads.google.com/aw/keywordplanner/home?ocid=294945565&__c=4336109685&sourceid=awo&__u=7000670026&authuser=0
 * 关键字 https://keywordtool.io/
@@ -58,6 +60,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 链接检测 http://www.link114.cn/
 * 爱站网SEO综合查询 https://www.aizhan.com/cha/baidu.com/
 * 桔子SEO 外链查询 https://seo.juziseo.com/domain_rank/result/id-KzcyU1lPaVNWeVlZeW10VnlydjI2ZE85TjhhOTdZYzVFUQ==.html
+* 搜索次数 http://e.baidu.com/advantage
 
 * 国超站群服务器 http://www.gchao.com/group.php?gid=104
 * 狂人软件 http://www.kuangren.net.cn/jiaocheng/
