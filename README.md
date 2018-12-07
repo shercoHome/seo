@@ -19,6 +19,8 @@
     `这里注意 要设置 * 新的数据库名 * `
 3. 保留data文件，其它原始文件删除
 3. 上传并解压dede模板包
+-------
+`以上可简化为，解压【不传密法之最终极速封建站模板.zip】`
 4. 后台设置网站名称、描述、备注信息变量用于提权的句子，banner.jpg，list.jpg，logo.png
 ### 三、狂人软件批量栏目设置
 1. 批量添加网站及接口配置到狂人软件  
@@ -51,6 +53,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 参考站样式5 view-source:http://www.juyixian.com/
 * 着陆页参考 http://www.dtzxkc.com/
 
+* 百度搜索次数：http://e.baidu.com/advantage
 * 谷歌关键字规划师 https://ads.google.com/aw/keywordplanner/home?ocid=294945565&__c=4336109685&sourceid=awo&__u=7000670026&authuser=0
 * 关键字 https://keywordtool.io/
 * 关键词挖掘 https://ci.aizhan.com/
