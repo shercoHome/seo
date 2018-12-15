@@ -54,6 +54,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 参考站样式5 view-source:http://www.juyixian.com/
 * 着陆页参考 http://www.dtzxkc.com/
 
+* 群站助手：http://162.net.cn/
 * 百度搜索次数：http://e.baidu.com/advantage
 * 谷歌关键字规划师 https://ads.google.com/aw/keywordplanner/home?ocid=294945565&__c=4336109685&sourceid=awo&__u=7000670026&authuser=0
 * 关键字 https://keywordtool.io/
@@ -75,6 +76,11 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 中国供应商 https://www.china.cn/search/9pptzk.shtml?p=30
 * 代码混淆 http://tool.chinaz.com/tools/html_js.aspx
 * 站长工具 http://tool.chinaz.com/
+* 查看网站的关键词在谷歌的排名 https://smallseotools.com/keyword-position/
+
+* 在线短信接收 https://www.pdflibr.com （CSDN 美国电话2126710732）
+* 分享几个可用在线获取短信验证码的服务 https://meta.appinn.com/t/topic/2835
+* 无需注册可在线接收验证短信的免费电话网站 https://www.freeinchina.org/freeonlinephone/
 ## SEO笔记
 [SEO实战密码，笔记](/seo-cipher-challenge.md)
 
