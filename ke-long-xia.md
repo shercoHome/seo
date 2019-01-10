@@ -16,7 +16,10 @@
 ###  选模板
 1. 搜索行业关键词，比如，扫地机器人，托福考试。排名靠前的网站。
 2. 搜索到的网站，查询一下收录情况，收录不能太多。权重也不能太高，知名的网站不要，最好有几十条几百条收录就行。
+3. 尽量选择代码不变的自适应模板，可适应手机端展示，提高百度移动排名
 ### 下载模板（克隆网站）
+使用wget下载，软件下载地址是：https://eternallybored.org/misc/wget/releases/wget-1.20-win64.zip 
+
 ```shell
 cd wget
 wget -r -p -k -np -nc -e robots=off https://www.domain.com/m/
