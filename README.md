@@ -1,5 +1,3 @@
-## 操作步骤666
-
 ### 一、完成网站模版
 1. 解压dede
 2. 安装（设置数据库连接地址、账号，设置后台账号、密码）
@@ -83,7 +81,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 无需注册可在线接收验证短信的免费电话网站 https://www.freeinchina.org/freeonlinephone/
 ## SEO笔记
 [SEO实战密码，笔记](/seo-cipher-challenge.md)
-
+[克隆侠，笔记](/ke-long-xia.md)
 ------------
 
 ## 工作职责：
