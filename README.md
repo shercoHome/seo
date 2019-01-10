@@ -1,6 +1,6 @@
 ## SEO笔记
-[SEO实战密码，笔记](/seo-cipher-challenge.md) 
-[克隆侠，笔记](/ke-long-xia.md)
+* [SEO实战密码，笔记](/seo-cipher-challenge.md) 
+* [克隆侠，笔记](/ke-long-xia.md)
 ------------
 ### 一、完成网站模版
 1. 解压dede
