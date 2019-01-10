@@ -1,3 +1,7 @@
+## SEO笔记
+[SEO实战密码，笔记](/seo-cipher-challenge.md) 
+[克隆侠，笔记](/ke-long-xia.md)
+------------
 ### 一、完成网站模版
 1. 解压dede
 2. 安装（设置数据库连接地址、账号，设置后台账号、密码）
@@ -79,10 +83,7 @@ https://analytics.google.com/analytics/web/#/report-home/a122667432w189346511p18
 * 在线短信接收 https://www.pdflibr.com （CSDN 美国电话2126710732）
 * 分享几个可用在线获取短信验证码的服务 https://meta.appinn.com/t/topic/2835
 * 无需注册可在线接收验证短信的免费电话网站 https://www.freeinchina.org/freeonlinephone/
-## SEO笔记
-[SEO实战密码，笔记](/seo-cipher-challenge.md)
-[克隆侠，笔记](/ke-long-xia.md)
-------------
+
 
 ## 工作职责：
 建站并让百度收录，有排名后将流量导入Landing Pages （再由市场转化）
