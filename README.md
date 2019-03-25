@@ -25,6 +25,7 @@
 `以上可简化为，解压【不传密法之最终极速封建站模板.zip】`  
 -------
 4. 后台设置网站名称、描述、备注信息变量用于提权的句子，banner.jpg，list.jpg，logo.png
+`/install/index.php?description=描述啊&webname=我的2B网站&keywords=我的3b关键词&beian=备案号是在哪里`
 ### 三、狂人软件批量栏目设置
 1. 批量添加网站及接口配置到狂人软件  
 2. 批量给软件增加栏目
