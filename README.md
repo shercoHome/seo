@@ -1,3 +1,23 @@
+## 二级目录
+1. 安装apache，进入配置文件httpd.conf
+2. 打开以下配置
+    1. LoadModule proxy_module modules/mod_proxy.so
+    2. LoadModule proxy_connect_module modules/mod_proxy_connect.so
+    3. LoadModule proxy_ftp_module modules/mod_proxy_ftp.so
+    4. LoadModule proxy_http_module modules/mod_proxy_http.so
+3. 在配置文件最后面，加上以下代码
+
+```
+ProxyPassMatch ^/目录名(.*)$ http://要指向的服务器IP/$1
+ProxyPassMatch ^/目录名(.*)/$ http://要指向的服务器IP/$1
+ProxyPass /目录名 http://要指向的服务器IP
+ProxyPassReverse /目录名 http://要指向的服务器IP
+```
+--------------------- 
+作者：dianlei 
+来源：CSDN 
+原文：https://blog.csdn.net/zhdl11/article/details/44182725 
+版权声明：本文为博主原创文章，转载请附上博文链接！
 ## SEO笔记
 * [SEO实战密码，笔记](/seo-cipher-challenge.md) 
 * [克隆侠，笔记](/ke-long-xia.md)
